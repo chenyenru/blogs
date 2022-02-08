@@ -87,16 +87,18 @@ F-statistic: 1.027 on 4 and 3 DF,  p-value: 0.5118
 ``` ad-note
 relevant background info, the problem statement, and our proposed research. And you should also cite sources whenever possible.
 ```
-## Topic 1:  **死亡率.主要癌症_氣管.支氣管和肺癌_死亡率.人.十萬人.**
+## Topic 1:  **空氣中總懸浮微粒濃度** and **死亡率.主要癌症_氣管.支氣管和肺癌_死亡率.人.十萬人.**
+### Introduction
+
 
 
 ## Topic 2:  **死亡人數.主要死因_肺炎.人.**   
 ## Topic 3: **教育程度_15歲以上人口教育程度_大學...**
-## Topic 4: **台灣電力公司_火力發電_溫室氣體排放量**
+## Topic 4: **台灣電力公司_火力發電_溫室氣體排放量** and **死亡率.主要癌症_氣管.支氣管和肺癌_死亡率.人.十萬人.**
 This is the topic I'm most interested in because the Taichung Trash Incineration Power Plant is actually very close to me.
 
 ### Introduction
-The balance between economy and healthy has long been a controversial issue, where to achieve one often means the loss of another. And this question is specifically focused on in Taichung, Taiwan, containing one of the largest thermal power plants in the world. The study gathered data from Taichung Government, Taichung hte 
+The balance between economy and health has long been a controversial issue, where to achieve one often means the loss of another. And this question is specifically focused on in Taichung, Taiwan, containing one of the largest thermal power plants in the world. The study gathered data from Taichung Government, Taichung hte 
 
 
 #### Resources
