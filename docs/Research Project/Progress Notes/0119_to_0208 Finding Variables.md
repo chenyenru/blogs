@@ -98,7 +98,7 @@ relevant background info, the problem statement, and our proposed research. And 
 This is the topic I'm most interested in because the Taichung Trash Incineration Power Plant is actually very close to me.
 
 ### Introduction
-The balance between economy and health has long been a controversial issue, where to achieve one often means the loss of another. And this question is specifically focused on in Taichung, Taiwan, containing one of the largest thermal power plants in the world. The study gathered data from Taichung Government, Taichung hte 
+The balance between economy and health has long been a controversial issue, where to achieve one often means the loss of another. And this question is specifically focused on in Taichung, Taiwan, containing one of the largest thermal power plants in the world. The study gathered data from Taichung Government, Taiwan Statistics 
 
 
 #### Resources
