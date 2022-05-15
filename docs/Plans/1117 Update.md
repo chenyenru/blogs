@@ -25,7 +25,7 @@ JEI
 - Pioneer Academics
 - 藝術作品 編曲
 - 找教授
-	- [[實驗室]]
+	- [[Life/Research/Bioinformatics/實驗室]]
 - 小的APPs
 - 找非專業的主題
 	- 教小孩電腦

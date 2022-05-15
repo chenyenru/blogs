@@ -43,7 +43,7 @@
 ## Research
 1. Teens for Cancer Patients
 2. Pioneer Academics
-	1. [[PA All together]]
+	1. [[Life/Research/PA/Application/PA All together]]
 
 # Projects
 1. 合唱編曲
